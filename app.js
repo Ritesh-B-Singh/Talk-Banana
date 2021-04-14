@@ -13,7 +13,7 @@ function clickHandler() {
 
     var inputText = inputBox.value;
     var urlTxt = addText(inputText);
-  
+
     fetch(urlTxt)
         .then(response => response.json())
         .then(json => outputBox.innerHTML = json.contents.translated);
