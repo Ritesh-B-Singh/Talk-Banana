@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Tegomin&display=swap');
+
+textarea{
+    width: 40%;
+    height: 7vmax;
+    display: block;
+    margin-left: 27%;
+    margin-right: 30%;
+}
+
+body{
+    margin: 0% 0% 0% 0%;
+    padding-bottom: 0%;
+    padding-right: 0%;
+    padding-left: 0%;
+    padding-top: 0%;
+    font-family: 'New Tegomin', serif;
+    background-image: url("photo/banana1.jpg");
+    background-color: #cccccc;
+}
+h1{
+    padding-left: 40%;
+    background-color: #f2c94c;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-top: 0%;
+}
+
+#btn-translate{
+    margin-left: 41%;
+    background-color: #f2c94c;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-family: 'New Tegomin', serif;
+    font-size: 2rem;
+    border: 0rem;
+}
+
+#output{
+    padding-left: 41%;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#about{
+    padding-left: 44%;
+    margin-bottom: 0rem;
+    font-size: 2rem;
+}
+
+#para{
+    margin-left: 25%;
+    margin-right: 28%;
+    padding-bottom: 2%;
+    margin-bottom: 0%;
+    font-size: 1.1rem;
+}
+
+#txt-output{
+    margin-bottom: 4%;
+}
+
+#txt-input{
+    margin-bottom: 2%;
+    font-family: 'New Tegomin', serif;
+    font-size: 1rem;
+}
+
+#colorbottom{
+    background-color: #f2c94c;
+}
